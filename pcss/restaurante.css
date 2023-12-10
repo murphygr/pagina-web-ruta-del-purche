@@ -1,0 +1,75 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 760px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 380px; min-height: 451px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_1 { position: relative; width: 374px; min-height: 445px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_1 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_1 a { color: inherit; }
+#imTextObject_1 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_1 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_1 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_1 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_1 p { margin: 0; padding: 0; }
+#imTextObject_1 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_1 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_1 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_1 .imUl { text-decoration: underline; }
+#imTextObject_1 .ff0 { font-family: "Tahoma"; }
+#imTextObject_1 .ff1 { font-family: "Tahoma"; }
+#imTextObject_1 .cf1 { color: #000000; }
+#imTextObject_1 .cf2 { color: #FFFFFF; }
+#imTextObject_1 .cf3 { color: #000000; }
+#imTextObject_1 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_1 .fs28 { vertical-align: baseline; font-size: 14pt; line-height: 25px;}
+#imTextObject_1 .fs18 { vertical-align: baseline; font-size: 9pt; line-height: 19px;}
+#imTextObject_1 .cb1 { background-color: #000000; }
+#imTextObject_1 .cb2 { background-color: transparent; }
+#imTextObject_1 .cb3 { background-color: #000000; }
+#imCell_2 { display: block; position: relative; overflow: hidden; width: 380px; min-height: 451px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_2 { position: relative; width: 374px; min-height: 373px; padding: 3px 3px 75px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_2 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imObjectGallery_2 { width: 374px; height: 374px; overflow: hidden; position: relative; margin: 0px; text-align: left; }
+#imObjectGallery_2 .imRunner img { float: left; margin: 1px; width: 91px; height: 91px; }
+#imObjectGallery_2 .imSControls { position: absolute; bottom: 0px; right: 0px; padding: 3px; background-color: white; font-size: 25px; font-family: "Trebuchet MS"; font-weight: bold; text-align: center; }
+#imObjectGallery_2 .imSControls .imPNext { float: left; margin-right: 5px; cursor: pointer; }
+#imObjectGallery_2 .imSControls .imPPrev { float: left; margin-right: 30px; margin-left: 5px; cursor: pointer; }
+#imObjectGallery_2 .imRunner .imSPage { float: left;	width: 374px; height: 374px; } 
+#imObjectGallery_2 .imRunner{ position: absolute; left: 0px; }
+#imContent #imObjectGallery_2 a:link, #imContent #imObjectGallery_2 a:hover, #imContent #imObjectGallery_2 a:visited, #imContent #imObjectGallery_2 a:active { border: none; background-color: transparent; text-decoration: none; }
+#imCell_3 { display: block; position: relative; overflow: hidden; width: 380px; min-height: 286px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_3 { position: relative; width: 374px; min-height: 280px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_3 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imObjectGallery_3 > div { margin: 0 auto; }
+#imContent #imObjectGallery_3 a:link, #imContent #imObjectGallery_3 a:hover, #imContent #imObjectGallery_3 a:visited, #imContent #imObjectGallery_3 a:active { border: none; background-color: transparent; text-decoration: none; }
+#imCell_4 { display: block; position: relative; overflow: hidden; width: 380px; min-height: 286px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_4 { position: relative; width: 374px; min-height: 186px; padding: 3px 3px 97px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_4 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imObjectGallery_4 { width: 374px; height: 187px; overflow: hidden; position: relative; margin: 0px; text-align: left; }
+#imObjectGallery_4 .imRunner img { float: left; margin: 1px; width: 91px; height: 91px; }
+#imObjectGallery_4 .imSControls { position: absolute; bottom: 0px; right: 0px; padding: 3px; background-color: white; font-size: 25px; font-family: "Trebuchet MS"; font-weight: bold; text-align: center; }
+#imObjectGallery_4 .imSControls .imPNext { float: left; margin-right: 5px; cursor: pointer; }
+#imObjectGallery_4 .imSControls .imPPrev { float: left; margin-right: 30px; margin-left: 5px; cursor: pointer; }
+#imObjectGallery_4 .imRunner .imSPage { float: left;	width: 374px; height: 374px; } 
+#imObjectGallery_4 .imRunner{ position: absolute; left: 0px; }
+#imContent #imObjectGallery_4 a:link, #imContent #imObjectGallery_4 a:hover, #imContent #imObjectGallery_4 a:visited, #imContent #imObjectGallery_4 a:active { border: none; background-color: transparent; text-decoration: none; }
+#imCell_5 { display: block; position: relative; overflow: hidden; width: 766px; min-height: 75px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_5 { position: relative; width: 760px; min-height: 69px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_5 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_5 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_5 a { color: inherit; }
+#imTextObject_5 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_5 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_5 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_5 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_5 p { margin: 0; padding: 0; }
+#imTextObject_5 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_5 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_5 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_5 .imUl { text-decoration: underline; }
+#imTextObject_5 .ff0 { font-family: "Tahoma"; }
+#imTextObject_5 .cf1 { color: #000000; }
+#imTextObject_5 .cf2 { color: #FFFFFF; }
+#imTextObject_5 .cf3 { color: #000000; }
+#imTextObject_5 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_5 .cb1 { background-color: #000000; }
+#imTextObject_5 .cb2 { background-color: transparent; }
+#imTextObject_5 .cb3 { background-color: #000000; }

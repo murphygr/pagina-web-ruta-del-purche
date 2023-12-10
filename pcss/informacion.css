@@ -1,0 +1,76 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 757px;}
+#imCell_5 { display: block; position: relative; overflow: hidden; width: 453px; min-height: 852px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_5 { position: relative; width: 447px; min-height: 846px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_5 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imObjectForm_5 { font-family: Tahoma, sans serif; font-size: 8pt; text-align: left; }
+#imObjectForm_5 label, #imObjectForm_5 .checkbox, #imObjectForm_5 .radiobutton { color: #000000; font-family: Tahoma, sans serif; font-size: 8pt; }
+#imObjectForm_5 fieldset { margin: 0; padding: 10px 0 0 0; }
+#imObjectForm_5 fieldset.first { margin: 0; padding: 0; }
+#imObjectForm_5 div.legend { color: #000000; font-family: Tahoma, sans serif; font-size: 8pt; border-bottom: 1px solid #808080; }
+#imObjectForm_5 input, #imObjectForm_5 select, #imObjectForm_5 textarea { margin: 2px 0 3px; color: #000000; border: 1px solid #808080; background-color: #FFFFFF; font-family: Tahoma, sans serif; font-size: 8pt; padding-left: 1px; padding-right: 1px;}
+#imObjectForm_5 input[type="checkbox"], #imObjectForm_5 input[type="radio"] { border: 0; background-color: transparent; }
+#imObjectForm_5 input.imFormFocus, #imObjectForm_5 select.imFormFocus, #imObjectForm_5 textarea.imFormFocus { color: #000000; background-color: #FFFFE0; }
+#imObjectForm_5 input[type="checkbox"].imFormFocus, #imObjectForm_5 input[type="radio"].imFormFocus { border: 0; background-color: transparent; }
+#imObjectForm_5 input.imFormMark, #imObjectForm_5 textarea.imFormMark { border: 1px solid #FF0000; }
+#imObjectForm_5 input[type="submit"], #imObjectForm_5 input[type="reset"], #imObjectForm_5 input[type="button"] { padding: 0; cursor: pointer; color: #000000; border: 1px solid #808080; background-color: #D3D3D3; vertical-align: top; line-height: 8px;height: 20px; }
+#imCell_6 { display: block; position: relative; overflow: hidden; width: 304px; min-height: 66px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_6 { position: relative; width: 298px; min-height: 60px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_6 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_7 { display: block; position: relative; overflow: hidden; width: 304px; min-height: 126px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_7 { position: relative; width: 298px; min-height: 120px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_7 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_8 { display: block; position: relative; overflow: hidden; width: 453px; min-height: 66px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_8 { position: relative; width: 447px; min-height: 24px; padding: 3px 3px 39px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_8 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_8 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_8 a { color: inherit; }
+#imTextObject_8 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_8 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_8 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_8 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_8 p { margin: 0; padding: 0; }
+#imTextObject_8 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_8 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_8 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_8 .imUl { text-decoration: underline; }
+#imTextObject_8 .ff0 { font-family: "Tahoma"; }
+#imTextObject_8 .ff1 { font-family: "Tahoma"; }
+#imTextObject_8 .cf1 { color: #000000; }
+#imTextObject_8 .cf2 { color: #FFFFFF; }
+#imTextObject_8 .cf3 { color: #000000; }
+#imTextObject_8 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_8 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_8 .fs18 { vertical-align: baseline; font-size: 9pt; line-height: 19px;}
+#imTextObject_8 .cb1 { background-color: #000000; }
+#imTextObject_8 .cb2 { background-color: transparent; }
+#imTextObject_8 .cb3 { background-color: #000000; }
+#imCell_9 { display: block; position: relative; overflow: hidden; width: 304px; min-height: 229px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_9 { position: relative; width: 298px; min-height: 223px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_9 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_10 { display: block; position: relative; overflow: hidden; width: 304px; min-height: 485px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_10 { position: relative; width: 298px; min-height: 161px; padding: 3px 3px 321px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_10 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_10 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_10 a { color: inherit; }
+#imTextObject_10 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_10 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_10 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_10 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_10 p { margin: 0; padding: 0; }
+#imTextObject_10 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_10 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_10 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_10 .imUl { text-decoration: underline; }
+#imTextObject_10 .ff0 { font-family: "Tahoma"; }
+#imTextObject_10 .ff1 { font-family: "Tahoma"; }
+#imTextObject_10 .cf1 { color: #000000; }
+#imTextObject_10 .cf2 { color: #FFFFFF; }
+#imTextObject_10 .cf3 { color: #00BF30; }
+#imTextObject_10 .cf4 { color: #000000; }
+#imTextObject_10 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_10 .fs32 { vertical-align: baseline; font-size: 16pt; line-height: 28px;}
+#imTextObject_10 .fs18 { vertical-align: baseline; font-size: 9pt; line-height: 19px;}
+#imTextObject_10 .cb1 { background-color: #000000; }
+#imTextObject_10 .cb2 { background-color: transparent; }
+#imTextObject_10 .cb3 { background-color: #00BF30; }
+#imTextObject_10 .cb4 { background-color: #000000; }
