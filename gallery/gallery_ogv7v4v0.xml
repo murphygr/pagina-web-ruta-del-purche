@@ -1,0 +1,70 @@
+<gallery width="374" height="280">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>16697523</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>bottom</tposition>
+    <tsize>91</tsize>
+    <tnumber>4</tnumber>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/059.png" type="image" effect="" autoplay="5000" thumb="gallery/059_thumb.png">
+      <description><![CDATA[ Apartamentos 4 pax ]]></description>
+    </slide>
+    <slide url="gallery/060.png" type="image" effect="" autoplay="5000" thumb="gallery/060_thumb.png">
+    </slide>
+    <slide url="gallery/061.png" type="image" effect="" autoplay="5000" thumb="gallery/061_thumb.png">
+    </slide>
+    <slide url="gallery/062.png" type="image" effect="" autoplay="5000" thumb="gallery/062_thumb.png">
+      <description><![CDATA[ Apartamento 10 ]]></description>
+    </slide>
+    <slide url="gallery/063.png" type="image" effect="" autoplay="5000" thumb="gallery/063_thumb.png">
+      <description><![CDATA[ Apartamento 10 ]]></description>
+    </slide>
+    <slide url="gallery/064.png" type="image" effect="" autoplay="5000" thumb="gallery/064_thumb.png">
+      <description><![CDATA[ Apartamento 10 ]]></description>
+    </slide>
+    <slide url="gallery/065.png" type="image" effect="" autoplay="5000" thumb="gallery/065_thumb.png">
+      <description><![CDATA[ Apartamento 10 ]]></description>
+    </slide>
+    <slide url="gallery/066.png" type="image" effect="" autoplay="5000" thumb="gallery/066_thumb.png">
+      <description><![CDATA[ Apartamento 10 ]]></description>
+    </slide>
+    <slide url="gallery/067.png" type="image" effect="" autoplay="5000" thumb="gallery/067_thumb.png">
+      <description><![CDATA[ Apartamento 10 ]]></description>
+    </slide>
+    <slide url="gallery/068.png" type="image" effect="" autoplay="5000" thumb="gallery/068_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+    <slide url="gallery/069.png" type="image" effect="" autoplay="5000" thumb="gallery/069_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+    <slide url="gallery/070.png" type="image" effect="" autoplay="5000" thumb="gallery/070_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+    <slide url="gallery/071.png" type="image" effect="" autoplay="5000" thumb="gallery/071_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+    <slide url="gallery/072.png" type="image" effect="" autoplay="5000" thumb="gallery/072_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+    <slide url="gallery/073.png" type="image" effect="" autoplay="5000" thumb="gallery/073_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+    <slide url="gallery/074.png" type="image" effect="" autoplay="5000" thumb="gallery/074_thumb.png">
+      <description><![CDATA[ Apartamento 11 ]]></description>
+    </slide>
+  </slides>
+</gallery>

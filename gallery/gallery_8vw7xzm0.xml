@@ -1,0 +1,58 @@
+<gallery width="522" height="480">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>17518692</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>right</tposition>
+    <tsize>118</tsize>
+    <tnumber>4</tnumber>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/126_zt7i7572.png" type="image" effect="" autoplay="5000" thumb="gallery/126_thumb_p9th9p0h.png">
+    </slide>
+    <slide url="gallery/127.png" type="image" effect="" autoplay="5000" thumb="gallery/127_thumb_p9th9p0h.png">
+    </slide>
+    <slide url="gallery/129.png" type="image" effect="" autoplay="5000" thumb="gallery/129_thumb.png">
+    </slide>
+    <slide url="gallery/130.png" type="image" effect="" autoplay="5000" thumb="gallery/130_thumb.png">
+    </slide>
+    <slide url="gallery/131.png" type="image" effect="" autoplay="5000" thumb="gallery/131_thumb.png">
+    </slide>
+    <slide url="gallery/132.png" type="image" effect="" autoplay="5000" thumb="gallery/132_thumb.png">
+    </slide>
+    <slide url="gallery/133.png" type="image" effect="" autoplay="5000" thumb="gallery/133_thumb.png">
+    </slide>
+    <slide url="gallery/134.png" type="image" effect="" autoplay="5000" thumb="gallery/134_thumb.png">
+    </slide>
+    <slide url="gallery/135.png" type="image" effect="" autoplay="5000" thumb="gallery/135_thumb.png">
+    </slide>
+    <slide url="gallery/136.png" type="image" effect="" autoplay="5000" thumb="gallery/136_thumb.png">
+    </slide>
+    <slide url="gallery/138.png" type="image" effect="" autoplay="5000" thumb="gallery/138_thumb.png">
+    </slide>
+    <slide url="gallery/139.png" type="image" effect="" autoplay="5000" thumb="gallery/139_thumb.png">
+    </slide>
+    <slide url="gallery/140.png" type="image" effect="" autoplay="5000" thumb="gallery/140_thumb.png">
+    </slide>
+    <slide url="gallery/141.png" type="image" effect="" autoplay="5000" thumb="gallery/141_thumb.png">
+    </slide>
+    <slide url="gallery/142.png" type="image" effect="" autoplay="5000" thumb="gallery/142_thumb.png">
+    </slide>
+    <slide url="gallery/144.png" type="image" effect="" autoplay="5000" thumb="gallery/144_thumb.png">
+    </slide>
+    <slide url="gallery/145.png" type="image" effect="" autoplay="5000" thumb="gallery/145_thumb.png">
+    </slide>
+  </slides>
+</gallery>

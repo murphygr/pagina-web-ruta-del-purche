@@ -1,0 +1,129 @@
+<gallery width="374" height="280">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>40830253</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>bottom</tposition>
+    <tsize>91</tsize>
+    <tnumber>4</tnumber>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/021.png" type="image" effect="" autoplay="5000" thumb="gallery/021_thumb.png">
+      <description><![CDATA[ Bungalow 1 ]]></description>
+    </slide>
+    <slide url="gallery/022.png" type="image" effect="" autoplay="5000" thumb="gallery/022_thumb_j429j06h.png">
+      <description><![CDATA[ Bungalow 1 ]]></description>
+    </slide>
+    <slide url="gallery/024.png" type="image" effect="" autoplay="5000" thumb="gallery/024_thumb.png">
+      <description><![CDATA[ Bungalow 1 ]]></description>
+    </slide>
+    <slide url="gallery/026.png" type="image" effect="" autoplay="5000" thumb="gallery/026_thumb.png">
+      <description><![CDATA[ Bungalow 1 ]]></description>
+    </slide>
+    <slide url="gallery/028.png" type="image" effect="" autoplay="5000" thumb="gallery/028_thumb_j429j06h.png">
+      <description><![CDATA[ Bungalow 2 ]]></description>
+    </slide>
+    <slide url="gallery/029.png" type="image" effect="" autoplay="5000" thumb="gallery/029_thumb.png">
+      <description><![CDATA[ Bungalow 2 ]]></description>
+    </slide>
+    <slide url="gallery/030.png" type="image" effect="" autoplay="5000" thumb="gallery/030_thumb.png">
+      <description><![CDATA[ Bungalow 2 ]]></description>
+    </slide>
+    <slide url="gallery/031.png" type="image" effect="" autoplay="5000" thumb="gallery/031_thumb.png">
+      <description><![CDATA[ Bungalow 2 ]]></description>
+    </slide>
+    <slide url="gallery/033.png" type="image" effect="" autoplay="5000" thumb="gallery/033_thumb.png">
+      <description><![CDATA[ Bungalow 2 ]]></description>
+    </slide>
+    <slide url="gallery/034.png" type="image" effect="" autoplay="5000" thumb="gallery/034_thumb.png">
+      <description><![CDATA[ Bungalow 3 ]]></description>
+    </slide>
+    <slide url="gallery/038.png" type="image" effect="" autoplay="5000" thumb="gallery/038_thumb.png">
+      <description><![CDATA[ Bungalow 3 ]]></description>
+    </slide>
+    <slide url="gallery/039.png" type="image" effect="" autoplay="5000" thumb="gallery/039_thumb.png">
+      <description><![CDATA[ Bungalow 3 ]]></description>
+    </slide>
+    <slide url="gallery/041.png" type="image" effect="" autoplay="5000" thumb="gallery/041_thumb.png">
+      <description><![CDATA[ Bungalow 4 ]]></description>
+    </slide>
+    <slide url="gallery/044.png" type="image" effect="" autoplay="5000" thumb="gallery/044_thumb.png">
+      <description><![CDATA[ Bungalow 4 ]]></description>
+    </slide>
+    <slide url="gallery/045.png" type="image" effect="" autoplay="5000" thumb="gallery/045_thumb.png">
+      <description><![CDATA[ Bungalow 4 ]]></description>
+    </slide>
+    <slide url="gallery/046.png" type="image" effect="" autoplay="5000" thumb="gallery/046_thumb.png">
+      <description><![CDATA[ Bungalow 4 ]]></description>
+    </slide>
+    <slide url="gallery/047.png" type="image" effect="" autoplay="5000" thumb="gallery/047_thumb.png">
+      <description><![CDATA[ Bungalow 5 ]]></description>
+    </slide>
+    <slide url="gallery/048.png" type="image" effect="" autoplay="5000" thumb="gallery/048_thumb.png">
+      <description><![CDATA[ Bungalow 5 ]]></description>
+    </slide>
+    <slide url="gallery/050.png" type="image" effect="" autoplay="5000" thumb="gallery/050_thumb.png">
+      <description><![CDATA[ Bungalow 5 ]]></description>
+    </slide>
+    <slide url="gallery/051.png" type="image" effect="" autoplay="5000" thumb="gallery/051_thumb.png">
+      <description><![CDATA[ Bungalow 5 ]]></description>
+    </slide>
+    <slide url="gallery/IM000308.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IM000308_thumb.png">
+      <description><![CDATA[ Bungalows 6 y 7 ]]></description>
+    </slide>
+    <slide url="gallery/SANY0065_j731gux6.jpg" type="image" effect="" autoplay="5000" thumb="gallery/SANY0065_thumb_j731gux6.png">
+      <description><![CDATA[ Bungalows 6 y 7 ]]></description>
+    </slide>
+    <slide url="gallery/SANY0067_63kcjip6.jpg" type="image" effect="" autoplay="5000" thumb="gallery/SANY0067_thumb_63kcjip6.png">
+      <description><![CDATA[ Bungalows 6 y 7 ]]></description>
+    </slide>
+    <slide url="gallery/IM000309.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IM000309_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/SANY0066_63kcjip6.jpg" type="image" effect="" autoplay="5000" thumb="gallery/SANY0066_thumb_j731gux6.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/115.png" type="image" effect="" autoplay="5000" thumb="gallery/115_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/120.png" type="image" effect="" autoplay="5000" thumb="gallery/120_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/121.png" type="image" effect="" autoplay="5000" thumb="gallery/121_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/122.png" type="image" effect="" autoplay="5000" thumb="gallery/122_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/123.png" type="image" effect="" autoplay="5000" thumb="gallery/123_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/125.png" type="image" effect="" autoplay="5000" thumb="gallery/125_thumb.png">
+      <description><![CDATA[ Bungalow 6 ]]></description>
+    </slide>
+    <slide url="gallery/116.png" type="image" effect="" autoplay="5000" thumb="gallery/116_thumb.png">
+      <description><![CDATA[ Bungalow 7 ]]></description>
+    </slide>
+    <slide url="gallery/IM000310.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IM000310_thumb.png">
+      <description><![CDATA[ Bungalow 7 ]]></description>
+    </slide>
+    <slide url="gallery/IM000311.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IM000311_thumb.png">
+      <description><![CDATA[ Bungalow 7 ]]></description>
+    </slide>
+    <slide url="gallery/IM000312.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IM000312_thumb.png">
+      <description><![CDATA[ Bungalow 7 ]]></description>
+    </slide>
+  </slides>
+</gallery>

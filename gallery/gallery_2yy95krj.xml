@@ -1,0 +1,72 @@
+<gallery width="374" height="280">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>18541969</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>bottom</tposition>
+    <tsize>91</tsize>
+    <tnumber>4</tnumber>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/IM000801.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000801_thumb_jq7xqif6.png">
+      <description><![CDATA[ Zonas comunes habitaciones ]]></description>
+    </slide>
+    <slide url="gallery/IM000817.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000817_thumb.png">
+      <description><![CDATA[ Zonas comunes habitaciones ]]></description>
+    </slide>
+    <slide url="gallery/IM000802.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000802_thumb_0atxnvn6.png">
+      <description><![CDATA[ Zonas comunes habitaciones ]]></description>
+    </slide>
+    <slide url="gallery/IM000803.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000803_thumb_l28l0n3z.png">
+      <description><![CDATA[ Zonas comunes habitaciones ]]></description>
+    </slide>
+    <slide url="gallery/IM000804.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000804_thumb.png">
+      <description><![CDATA[ Zonas comunes habitaciones ]]></description>
+    </slide>
+    <slide url="gallery/IM000805.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000805_thumb.png">
+      <description><![CDATA[ Zonas comunes habitaciones ]]></description>
+    </slide>
+    <slide url="gallery/IM000806.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000806_thumb.png">
+      <description><![CDATA[ Habitación 9 ]]></description>
+    </slide>
+    <slide url="gallery/IM000807.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000807_thumb.png">
+      <description><![CDATA[ Habitación 9 ]]></description>
+    </slide>
+    <slide url="gallery/IM000808.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000808_thumb.png">
+      <description><![CDATA[ Habitación 9 ]]></description>
+    </slide>
+    <slide url="gallery/IM000809.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000809_thumb.png">
+      <description><![CDATA[ Habitación 10 ]]></description>
+    </slide>
+    <slide url="gallery/IM000810.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000810_thumb.png">
+      <description><![CDATA[ Habitación 10 ]]></description>
+    </slide>
+    <slide url="gallery/IM000811.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000811_thumb.png">
+      <description><![CDATA[ Habitación 10 ]]></description>
+    </slide>
+    <slide url="gallery/IM000812.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000812_thumb.png">
+      <description><![CDATA[ Habitación 11 ]]></description>
+    </slide>
+    <slide url="gallery/IM000813.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000813_thumb.png">
+      <description><![CDATA[ Habitación 12 ]]></description>
+    </slide>
+    <slide url="gallery/IM000814.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000814_thumb.png">
+      <description><![CDATA[ Habitación 12 ]]></description>
+    </slide>
+    <slide url="gallery/IM000815.png" type="image" effect="" autoplay="5000" thumb="gallery/IM000815_thumb.png">
+      <description><![CDATA[ Habitación 12 ]]></description>
+    </slide>
+  </slides>
+</gallery>
